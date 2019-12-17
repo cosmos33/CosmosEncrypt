@@ -1,0 +1,6 @@
+framework module CosmosEncrypt {
+  umbrella header "CosmosEncrypt-umbrella.h"
+
+  export *
+  module * { export * }
+}
